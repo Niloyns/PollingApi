@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API Project for Polling-System",
   "main": "server.js",
+  "rootDir": "server.js",
   "type": "module",
   "scripts": {
     "start": "nodemon server.js",
